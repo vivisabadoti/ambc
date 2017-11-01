@@ -1,3 +1,2 @@
 # ambc
-Code in C++ for the Automated Mattson Bean Cooker
-File name: ambc.ino
+Click in the file ambc.ino fo view and download the code in C++ for the Automated Mattson Bean Cooker.
